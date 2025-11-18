@@ -7,23 +7,35 @@ Hi everyone, I'm **Duong HT**
 
 ## 🌐 Socials & Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/duonght12">
-    <img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/duong.hotrong.7777">
-    <img src="https://cdn.simpleicons.org/facebook" width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/">
-    <img src="https://cdn.simpleicons.org/instagram" width="32" height="32" />
-  </a>
-  &nbsp;
-  <a href="mailto:hotrongduong2004@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="32" height="32" />
-  </a>
-</p>
+**LinkedIn**  
+<a href="https://www.linkedin.com/in/duonght12">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
+  https://www.linkedin.com/in/duonght12
+</a>
+
+<br/>
+
+**Facebook**  
+<a href="https://www.facebook.com/duong.hotrong.7777">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" />
+  https://www.facebook.com/duong.hotrong.7777
+</a>
+
+<br/>
+
+**Instagram**  
+<a href="https://www.instagram.com/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
+  https://www.instagram.com/
+</a>
+
+<br/>
+
+**Email**  
+<a href="mailto:hotrongduong2004@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" width="30" />
+  hotrongduong2004@gmail.com
+</a>
 
 ---
 
